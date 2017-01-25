@@ -35,6 +35,6 @@ optional arguments:
 ## Quick Start
 
 
-``
+```
 aure your shell command
 ```
