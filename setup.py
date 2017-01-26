@@ -51,5 +51,6 @@ setup(
                  'Programming Language :: Python :: 3.4',
                  'Programming Language :: Python :: 3.5',
                  'License :: OSI Approved :: BSD License'],
+    py_modules=['aure'],
     package_data={},
 )
